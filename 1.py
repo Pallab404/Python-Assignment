@@ -19,6 +19,6 @@ def display(students):
         
 
 addStu(students,1,"Pallab","A")
-addStu(students,1,"Pal","A")
+addStu(students,2,"Pal","A+")
 
 display(students)
